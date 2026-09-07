@@ -1,6 +1,0 @@
-{
-  "name": "Kyro AI",
-  "description": "Powerful multimodal AI assistant supporting conversational chat, image analysis, coding, custom reasoning, and session history.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
